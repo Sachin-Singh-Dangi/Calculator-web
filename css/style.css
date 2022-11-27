@@ -6,9 +6,17 @@ body {
 /* main heading */
 h1 {
   color: #ff7827;
-  padding-top: 1rem;
+  padding-top: 6.5rem;
   text-decoration: underline 2.5px #fff;
   text-underline-offset: 7.5px;
+}
+@media (max-width: 480px) {
+  h1 {
+    color: #ff7827;
+    padding-top: 1.5rem;
+    text-decoration: underline 2.5px #fff;
+    text-underline-offset: 7.5px;
+  }
 }
 /* buttons */
 .button {
