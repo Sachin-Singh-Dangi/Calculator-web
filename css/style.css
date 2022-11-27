@@ -12,7 +12,6 @@ h1 {
 }
 /* buttons */
 .button {
-  padding: 20px;
   color: white;
   background-color: transparent;
   font-size: 1.75rem;
@@ -20,7 +19,7 @@ h1 {
   width: 4rem;
   height: 4rem;
   cursor: pointer;
-  margin: 0px 2.5px;
+  margin: 0 0.35rem;
 }
 .button:active {
   background-color: rgb(29, 29, 29);
