@@ -6,7 +6,7 @@ body {
 /* main heading */
 h1 {
   color: #ff7827;
-  padding-top: 50px;
+  padding-top: 1rem;
   text-decoration: underline 2.5px #fff;
   text-underline-offset: 7.5px;
 }
