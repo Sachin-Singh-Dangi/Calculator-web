@@ -39,20 +39,20 @@ h1 {
 /* row */
 .row {
   border: none;
-  padding: 5px 0;
+  padding: 0.5rem 0;
 }
 /* input box */
 .input {
-  margin-bottom: 7.5px;
-  padding: 15px 10px;
+  margin-bottom: 0.5rem;
+  padding: 1rem 0.75rem;
   font-size: 1.35rem;
   border: none;
   outline: none;
-  border-radius: 15px;
+  border-radius: 1rem;
 }
 /* footer section */
 footer {
-  margin-top: 100px;
+  margin-top: 7.5rem;
   padding: 2.5%;
   background-color: #ff7827;
   position: fixed;
