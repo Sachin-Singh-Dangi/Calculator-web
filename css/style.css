@@ -1,18 +1,18 @@
 body {
   background-color: #000000;
-  font-family: "Poppins", sans-serif;
+  font-family: monospace;
   text-align: center;
 }
 /* main heading */
 h1 {
-  color: #ff7827;
+  color: #ec945d;
   padding-top: 6.5rem;
   text-decoration: underline 2.5px #fff;
   text-underline-offset: 7.5px;
 }
 @media (max-width: 480px) {
   h1 {
-    color: #ff7827;
+    color: #ec945d;
     padding-top: 1.5rem;
     text-decoration: underline 2.5px #fff;
     text-underline-offset: 7.5px;
@@ -41,7 +41,7 @@ h1 {
 }
 /* equals to button */
 .equal-to {
-  background-color: #ff7827;
+  background-color: #ec945d;
   border-radius: 100%;
 }
 /* row */
@@ -62,19 +62,19 @@ h1 {
 footer {
   margin-top: 7.5rem;
   padding: 2.5%;
-  background-color: #ff7827;
+  background-color: #ec945d;
   position: fixed;
   width: 100%;
   left: 0;
   bottom: 0;
 }
 p {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: white;
 }
 @media (max-width: 480px) {
   p {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     color: white;
   }
 }
